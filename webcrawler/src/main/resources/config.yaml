@@ -1,0 +1,13 @@
+numberOfThreads: 4
+maxUrls: 2500
+batchSize: 5
+timeoutMinutes: 2
+queueSize: 10000
+urlPrefixs:
+  - "a href"
+  - "http"
+urlExcludePatterns:
+  - "www.youtube.com"
+  - ".css"
+  - ".png"
+  - ".jpg"
